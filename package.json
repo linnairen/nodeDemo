@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "nodejs-websocket": "^1.7.1"
+  }
+}
